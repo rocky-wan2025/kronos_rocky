@@ -44,7 +44,7 @@ PRED_LEN = 120
 T = 1.0
 TOP_P = 0.9
 SAMPLE_COUNT = 1
-
+akshare_token='A2BEEIEWUIR-SDLKFJKSLA-SKDJFKL-EWRKJKL'
 def load_data(symbol: str) -> pd.DataFrame:
     print(f"📥 Fetching {symbol} daily data from akshare ...")
 
